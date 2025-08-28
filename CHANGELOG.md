@@ -1,3 +1,6 @@
+## 2.8.1
+- Switched to `pyproject.toml` for package configuration to comply with modern `setuptools` standards.
+
 ## 2.8.0
 - Regenerate API from updated mirror. see [full
   commit](https://github.com/fprimex/zdesk/commit/4982b3dad9581fbb49d71307abc229dc4169ab74).
