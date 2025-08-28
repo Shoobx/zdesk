@@ -1,5 +1,7 @@
 ## 2.8.1
 - Switched to `pyproject.toml` for package configuration to comply with modern `setuptools` standards.
+- Set minimum Python version to 3.10.
+- Removed Python 2 compatibility code.
 
 ## 2.8.0
 - Regenerate API from updated mirror. see [full
